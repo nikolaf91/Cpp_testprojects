@@ -1,4 +1,4 @@
-<h1>main.cpp:</h1><br>
+<h2>main.cpp:</h2><br>
 class CIntHasher: Provides a simple hash function for integers.
 
 <b>Equalmaps Template Function:</b>
