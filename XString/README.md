@@ -1,5 +1,6 @@
-<h2>main.cpp:</h2><br>
-class CIntHasher: Provides a simple hash function for integers.
+<h2>main.cpp:</h2>
+<b>class CIntHasher:</b> 
+Provides a simple hash function for integers.
 
 <b>Equalmaps Template Function:</b>
 Compares two CXMap instances to check if they contain the same key-value pairs.
