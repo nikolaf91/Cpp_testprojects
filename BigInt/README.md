@@ -1,6 +1,6 @@
 <h2>main.cpp:</h2>
 The main.cpp file serves as a test suite for the CBigInt class, showcasing its ability to handle large integer arithmetic operations. <br>
-Here are the key functionalities demonstrated:<br>
+Here are the key functionalities demonstrated:<br><br>
 
 
 Multiplication: Squaring a number and multiplying two different numbers.<br>
